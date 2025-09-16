@@ -1,5 +1,3 @@
-Background
-
 This project was inspired by the announcement that the FDA released a batch of 89 Complete Response Letters (CRLs) issued in response to new drug and biologic applications that did not receive regulatory approval.
 
 The CRLs released pertain to actions taken by the Agency between January 12, 2024 and August 18, 2025.
